@@ -1,0 +1,136 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="C5u6yk40ZWBwdxygFRLk">
+    <mxGraphModel dx="2605" dy="1173" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-22" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vak leaderboard inzien&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="30" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-23" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vak selecteren&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="-170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-24" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hoofdstuk selecteren&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="230" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-25" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vak progressie inzien&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="-70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-27" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Opdracht selecteren&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-28" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Opdracht maken&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-30" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-31" value="Docent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-30" target="K2FmGHTj79UfzrzkFUAG-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="140" as="sourcePoint" />
+            <mxPoint x="-10" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-30" target="K2FmGHTj79UfzrzkFUAG-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="153" as="sourcePoint" />
+            <mxPoint x="-38" y="-41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-30" target="K2FmGHTj79UfzrzkFUAG-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="169" as="sourcePoint" />
+            <mxPoint x="-204" y="-27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-30" target="K2FmGHTj79UfzrzkFUAG-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="182" as="sourcePoint" />
+            <mxPoint x="-122" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-30" target="K2FmGHTj79UfzrzkFUAG-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="180" as="sourcePoint" />
+            <mxPoint x="-540" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-30" target="K2FmGHTj79UfzrzkFUAG-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="194" as="sourcePoint" />
+            <mxPoint x="-213" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-40" value="Vak aanmaken" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="-170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-41" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vak verwijderen&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="-70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-42" value="Hoodstuk aanmaken" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="30" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-43" value="Hoofdstuk verwijderen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-44" value="Opdracht aanmaken" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="230" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-45" value="Opdracht verwijderen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="330" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-46" value="Student progressie inzien" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-47" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-43" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="240" as="sourcePoint" />
+            <mxPoint x="-20" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-48" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-42" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="170" as="sourcePoint" />
+            <mxPoint x="-70" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-49" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-41" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="180" as="sourcePoint" />
+            <mxPoint x="-60" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-50" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-40" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="190" as="sourcePoint" />
+            <mxPoint x="-50" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-51" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-44" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="200" as="sourcePoint" />
+            <mxPoint x="-40" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-52" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-45" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="210" as="sourcePoint" />
+            <mxPoint x="-30" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-53" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="K2FmGHTj79UfzrzkFUAG-46" target="K2FmGHTj79UfzrzkFUAG-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="220" as="sourcePoint" />
+            <mxPoint x="-20" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FmGHTj79UfzrzkFUAG-58" value="Use Case Diagram for website &quot;Lerniq&quot;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="-200" width="520" height="720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
